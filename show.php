@@ -5,3 +5,4 @@ echo "<pre>";
 echo "phpinfo();";
 echo "</pre>";
 phpinfo();
+// testing deployment
